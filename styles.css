@@ -1,0 +1,38 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.container {
+  padding: 10px;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: rgb(206, 189, 230);
+}
+.header {
+  text-align: center;
+}
+ul {
+  overflow: hidden;
+  padding: 0;
+  background-color: #24082e;
+  width: 100%;
+  margin: auto;
+}
+li {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+.report-item {
+    padding: 15px;
+}
